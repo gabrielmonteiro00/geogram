@@ -1,5 +1,7 @@
 This simple web page uses both Google and Instagram API's in order to retrieve recent media content from Instagram, based on the desired location (input).
 
+<p text-align="center"><img src="https://github.com/gabrielmonteiro00/geogram/blob/master/Picture.PNG"></p>
+
 I follow this video to code this, and did some search in google, because Instagram API has changed since the video was uploaded.
 
 video link: https://www.youtube.com/watch?v=RTjd1nwvlj4&t=34s
